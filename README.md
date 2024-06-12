@@ -153,6 +153,18 @@
 </div>
 
 <div>
+    <h3 style="margin-bottom: -15px !important; padding-bottom: 0px !important;">INSTALLATION & USAGE</h3>
+    <div style="margin-left: 63px;">
+        <p>
+        <b>hardened-queue</b> currently only has releases on x86 Linux and Windows. To use <b>hardened-queue</b>, simply
+        download the respective executable from the <u>Releases</u> page (on github). Remember, this is a program that needs
+        to be ran <em>in a shell</em>, it is not its own stand-alone program - also, make sure your necessary files are in 
+        the same working directory as the executable (namely your roster file and backup file, if applicable).
+        </p>
+    </div>
+</div>
+
+<div>
     <h3 style="margin-bottom: -15px !important; padding-bottom: 0px !important;">SECURITY NOTES</h3>
     <div style="margin-left: 63px;">
         <p>
