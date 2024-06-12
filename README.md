@@ -184,7 +184,7 @@
     <h3 style="margin-bottom: -15px !important; padding-bottom: 0px !important;">COPYRIGHT</h3>
     <div style="margin-left: 63px;">
         <p>
-        Check the <b>LICENSE</b> file provided with the source code. For quick reference, it is the GPL-3.0 license.
+        Check the <b>LICENSE</b> file provided with the source code. For quick reference,0 it is the GPL-3.0 license.
         </p>
     </div>
 </div>
