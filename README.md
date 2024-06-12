@@ -33,7 +33,7 @@
         <p>
         <b>hardened-queue</b>, as its name implies, is a hardened version of queue, named as such due to its resilience against
         <em>novice</em> sabotage. This is done with two main mechanisms: disabling of <code>SIGINT</code> (<code>CTRL+C</code>)
-        and <code>SIGTSTP</code>(<code>CTRL+Z</code>), as well as queue backup mechanism in case of successful sabotage. See
+        and <code>SIGTSTP</code> (<code>CTRL+Z</code>), as well as queue backup mechanism in case of successful sabotage. See
         section <u>Security Notes</u> for why the "protections" are so limited.
         </p>
         <p>
@@ -196,7 +196,7 @@
     <h3 style="margin-bottom: -15px !important; padding-bottom: 0px !important;">COPYRIGHT</h3>
     <div style="margin-left: 63px;">
         <p>
-        Check the <b>LICENSE</b> file provided with the source code. For quick reference,0 it is the GPL-3.0 license.
+        Check the <b>LICENSE</b> file provided with the source code. For quick reference, it is the GPL-3.0 license.
         </p>
     </div>
 </div>
